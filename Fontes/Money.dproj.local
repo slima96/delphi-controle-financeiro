@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/21 21:53:52.000.507,=C:\Users\dev\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/22 20:04:24.000.771,=C:\Users\dev\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/22 20:07:36.000.903,C:\Users\dev\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\dev\Documents\Projeto mobile\Fontes\UnitLogin.fmx</Transaction>
+    <Transaction>2021/11/22 20:07:36.000.903,C:\Users\dev\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\dev\Documents\Projeto mobile\Fontes\UnitLogin.pas</Transaction>
+    <Transaction>2021/11/22 20:07:56.000.030,C:\Users\dev\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\dev\Documents\Projeto mobile\Fontes\Money.dproj</Transaction>
+    <Transaction>2021/11/23 20:19:04.000.811,=C:\Users\dev\Documents\Projeto mobile\Fontes\Units\u99Permissions.pas</Transaction>
+    <Transaction>2021/11/23 22:26:35.000.619,=C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/11/23 23:05:04.000.145,C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.pas=C:\Users\dev\Documents\Projeto mobile\Fontes\UnitPrincipal.pas</Transaction>
+    <Transaction>2021/11/23 23:05:04.000.145,C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.fmx=C:\Users\dev\Documents\Projeto mobile\Fontes\UnitPrincipal.fmx</Transaction>
+    <Transaction>2021/12/02 09:24:14.000.610,=C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/12/02 09:26:12.000.524,C:\Users\dev\Documents\Projeto mobile\Fontes\UnitLancamentos.pas=C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/12/02 09:26:12.000.524,C:\Users\dev\Documents\Projeto mobile\Fontes\UnitLancamentos.fmx=C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.fmx</Transaction>
+    <Transaction>2021/12/02 14:52:14.000.157,=C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/12/02 14:52:57.000.696,C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.pas=C:\Users\dev\Documents\Projeto mobile\Fontes\UnitLancamentosCad.pas</Transaction>
+    <Transaction>2021/12/02 14:52:57.000.696,C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.fmx=C:\Users\dev\Documents\Projeto mobile\Fontes\UnitLancamentosCad.fmx</Transaction>
+    <Transaction>2021/12/03 08:39:28.000.617,=C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/12/03 08:40:17.000.578,C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.pas=C:\Users\dev\Documents\Projeto mobile\Fontes\UnitCategorias.pas</Transaction>
+    <Transaction>2021/12/03 08:40:17.000.578,C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.fmx=C:\Users\dev\Documents\Projeto mobile\Fontes\UnitCategorias.fmx</Transaction>
+    <Transaction>2021/12/03 09:55:51.000.540,=C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/12/03 09:56:23.000.431,C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.pas=C:\Users\dev\Documents\Projeto mobile\Fontes\UnitCategoriasCad.pas</Transaction>
+    <Transaction>2021/12/03 09:56:23.000.431,C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.fmx=C:\Users\dev\Documents\Projeto mobile\Fontes\UnitCategoriasCad.fmx</Transaction>
+    <Transaction>2021/12/06 10:17:41.000.104,=C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/12/06 10:18:12.000.052,C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.dfm=C:\Users\dev\Documents\Projeto mobile\Fontes\UnitDM.dfm</Transaction>
+    <Transaction>2021/12/06 10:18:12.000.052,C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.pas=C:\Users\dev\Documents\Projeto mobile\Fontes\UnitDM.pas</Transaction>
+    <Transaction>2021/12/06 14:16:59.000.774,=C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/12/06 14:35:40.000.574,C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.pas=C:\Users\dev\Documents\Projeto mobile\Fontes\cCategoria.pas</Transaction>
+    <Transaction>2021/12/06 18:00:40.000.730,=C:\Users\dev\Documents\Projeto mobile\Fontes\Classes\cCategoria.pas</Transaction>
+    <Transaction>2021/12/07 11:34:03.000.830,=C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/12/07 11:36:58.000.679,C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.pas=C:\Users\dev\Documents\Projeto mobile\Fontes\Classes\cLancamento.pas</Transaction>
+    <Transaction>2021/12/08 08:59:58.000.279,=C:\Users\dev\Documents\Projeto mobile\Fontes\Units\uFormat.pas</Transaction>
+    <Transaction>2021/12/08 10:10:26.000.233,=C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/12/08 10:10:43.000.609,C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.pas=C:\Users\dev\Documents\Projeto mobile\Fontes\Classes\cUsuario.pas</Transaction>
+    <Transaction>2021/12/08 13:41:38.000.731,=C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/12/08 13:42:24.000.560,C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.pas=C:\Users\dev\Documents\Projeto mobile\Fontes\UnitComboCategoria.pas</Transaction>
+    <Transaction>2021/12/08 13:42:24.000.560,C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.fmx=C:\Users\dev\Documents\Projeto mobile\Fontes\UnitComboCategoria.fmx</Transaction>
+    <Transaction>2021/12/08 16:54:01.000.657,=C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/12/08 16:54:37.000.579,C:\Users\dev\Documents\Projeto mobile\Fontes\UnitLancamentosResumo.fmx=C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.fmx</Transaction>
+    <Transaction>2021/12/08 16:54:37.000.579,C:\Users\dev\Documents\Projeto mobile\Fontes\UnitLancamentosResumo.pas=C:\Users\dev\Documents\Projeto mobile\Fontes\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

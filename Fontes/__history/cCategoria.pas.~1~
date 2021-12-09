@@ -1,0 +1,24 @@
+unit cCategoria;
+
+interface
+
+uses FireDAC.comp.Client, FireDAC.DApt, System.SysUtils;
+
+type
+    TCategoria = class
+    private
+        Fconn: TFDConnection;
+    public
+        constructor Create(conn: TFDConnection);
+end;
+
+implementation
+
+{ TCategoria }
+
+constructor TCategoria.Create(conn: TFDConnection);
+begin
+    Fconn := conn;
+end;
+
+end.

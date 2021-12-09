@@ -1,0 +1,43 @@
+unit UnitComboCategoria;
+
+interface
+
+uses
+  System.SysUtils, System.Types, System.UITypes, System.Classes, System.Variants,
+  FMX.Types, FMX.Controls, FMX.Forms, FMX.Graphics, FMX.Dialogs,
+  System.Math.Vectors, FMX.Controls3D, FMX.Layers3D, FMX.Objects,
+  FMX.Controls.Presentation, FMX.StdCtrls, FMX.Layouts, FMX.ListView.Types,
+  FMX.ListView.Appearances, FMX.ListView.Adapters.Base, FMX.ListView;
+
+type
+  TFrmComboCategoria = class(TForm)
+    Layout1: TLayout;
+    lbl_titulo: TLabel;
+    img_voltar: TImage;
+    lv_categoria: TListView;
+    procedure img_voltarClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+    CategoriaSelecao: string;
+    IdCategoriaSelecao: Integer;
+  end;
+
+var
+  FrmComboCategoria: TFrmComboCategoria;
+
+implementation
+
+{$R *.fmx}
+
+uses UnitPrincipal;
+
+procedure TFrmComboCategoria.img_voltarClick(Sender: TObject);
+begin
+    IdCategoriaSelecao := 0;
+    CategoriaSelecao := '';
+    Close;
+end;
+
+end.
